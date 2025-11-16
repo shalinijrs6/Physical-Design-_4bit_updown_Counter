@@ -91,13 +91,21 @@ Adding Liberty Files (slow.lib, fast.lib) under “Library Sets
 
 • Similarly, SDC can be read under the MMMC Object of “Constraints”.
 
+![WhatsApp Image 2025-11-13 at 11 45 51_1f3921cb](https://github.com/user-attachments/assets/658de595-25d0-4038-882d-96da555dada6)
+
 ### Fig.5 SDC Constraint file
 
 • Analysis Views are formed from combinations of SDC and Delay Corner.
 
+![WhatsApp Image 2025-11-13 at 11 45 51_9a67d592](https://github.com/user-attachments/assets/533dacaf-963a-4a5a-b2de-2866e8100d87)
+
+
 ### Fig.6 Add Analysis View Worstcase & Bestcase
 
 • Once “Best” and “Worst” Analysis views are created, assign them to Setup and Hold.
+
+![WhatsApp Image 2025-11-13 at 11 45 52_347e0876](https://github.com/user-attachments/assets/e24a8e26-4657-42bd-adb7-d2232c1701e8)
+
 
 ### Fig.7 Add Setup Analysis View & Hold Analysis View
 
@@ -111,7 +119,10 @@ Adding Liberty Files (slow.lib, fast.lib) under “Library Sets
 
 In the Import Design window click the save option to save the Default.globals file
 
-• A rectangular or square box appears in your GUI if and only if all the inputs are read properly.
+• A rectangular or square box appears in your GUI if and only if all the inputs are read
+properly.
+
+![WhatsApp Image 2025-11-13 at 11 45 51_2af71d5a](https://github.com/user-attachments/assets/4354c0bc-0268-4c5b-9281-56e3001ff16a)
 
 ### Fig.8 Core area
 
@@ -132,6 +143,9 @@ In the Import Design window click the save option to save the Default.globals fi
 3. Channel Spacing between Core Boundary to IO Boundary
  
 • Select Floorplan → Specify Floorplan to modify/add concerned values to the above Factors. On adding/modifying the concerned values, the core area is also modified.
+
+<img width="790" height="421" alt="Screenshot 2025-11-16 185240" src="https://github.com/user-attachments/assets/00de0cde-2e20-4125-8380-b8be7b15ca98" />
+
 
 ### Fig.9 Specify Floorplan 
 
@@ -177,6 +191,8 @@ Under Connect Global Net Connects, we create two pins, one for VDD and one for V
 
 • After the Special Route is complete, all the Standard Cell Rows turn to the Color coded for Metal 1 
 
+![WhatsApp Image 2025-11-13 at 11 45 54_c320d57b](https://github.com/user-attachments/assets/39d99260-f4a2-44dc-a411-c6a542c4bc97)
+
 ### Fig.10 Power plan 
 
 The complete Power Planning process makes sure Every Standard Cell receives enough power to operate smoothly.
@@ -188,6 +204,11 @@ The complete Power Planning process makes sure Every Standard Cell receives enou
 2. Select Place → Place Standard Cell → Run Full Placement → Mode → Enable ‘Place I/O Pins’ → OK → OK .
    
 • All the Standard Cells and Pins are placed as per the communication between them, i.e., Two communicating Cells are placed as close as possible so that shorter Net lengths can be used for connections as Shorter Net Lengths enable Better Timing Results.
+
+![WhatsApp Image 2025-11-13 at 11 45 53_b4687118](https://github.com/user-attachments/assets/6725004d-96df-46b3-8176-a274a6952c13)
+
+![WhatsApp Image 2025-11-13 at 11 45 54_82bf5481](https://github.com/user-attachments/assets/dd393dd6-77e5-4617-bd74-f73dd01634e7)
+
 
 ### Fig.11 Placement of standard Cells 
 
