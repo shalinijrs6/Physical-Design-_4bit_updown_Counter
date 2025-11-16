@@ -83,9 +83,15 @@ Adding Liberty Files (slow.lib, fast.lib) under “Library Sets
 
 • Adding RC Corners can also be done in a similar process. The temperature value can be found under the corresponding liberty file. Also, cap table and RC Tech files can be added from Foundry where available.
 
+![WhatsApp Image 2025-11-13 at 11 45 52_fd084e04](https://github.com/user-attachments/assets/44c92f39-8ca2-421f-bfa8-368e577ada25)
+
+
 ### Fig.3 Add RC corner
 
 • Delay Corners are formed by combining Library Sets with RC Corners.
+
+![WhatsApp Image 2025-11-13 at 11 45 51_85031213](https://github.com/user-attachments/assets/f1ad5681-0f12-4b2e-af26-d80c5d2f907d)
+
 
 ### Fig.4 Add Delay corner Max_delay & Min_delay
 
