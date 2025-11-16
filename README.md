@@ -69,9 +69,15 @@ Adding Liberty Files (slow.lib, fast.lib) under “Library Sets
 
 • add slow.lib with a label Slow or any identifier of your own.
 
+![WhatsApp Image 2025-11-13 at 11 45 50_550943da](https://github.com/user-attachments/assets/ed736a2d-da74-43ee-a1d1-62525ca11502)
+
+
 ### Fig.1 Add slow Library set
 
 • add fast.lib with a label Fast or any identifier of your own.
+
+![WhatsApp Image 2025-11-13 at 11 45 56_07f11afb](https://github.com/user-attachments/assets/2006436b-63f7-4760-8294-c80fbab50fdc)
+
 
 ### Fig.2 Add fast Library set
 
